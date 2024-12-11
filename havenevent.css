@@ -1,0 +1,52 @@
+.mat-step-header .mat-step-label.mat-step-label-active {
+    color: hsla(0,0%,100%,1);
+}
+.mat-step-header .mat-step-label {
+    color: #ffffff;
+}
+.mat-step-label {
+    font-size: 1rem;
+    font-weight: 400;
+}
+.mat-step-label-selected {
+    font-size: 1rem;
+    font-weight: 500;
+}
+.divider-description, .divider-title {
+    font-size: 1.25rem;
+    line-height: 1.3;
+    font-weight: bold;
+    color: var(--surfaceTextColor);
+}
+.uwy {visibility: hidden}
+.group-name h1 {
+    display: none;
+}
+.siteforceThemeLayoutStarter {
+    position: relative;
+    z-index: 1;
+    font-size: 1rem;
+}
+.headline {
+    color: #a82200;
+    font-size: 3rem;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+    line-height: 1;
+    margin: 0 0 2rem;
+    text-align: left;
+}
+.event-date, .event-time {
+    color: #a82200;
+    font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: .25rem;
+}
+.event-date, .event-time {
+    color: #a82200;
+    font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: .25rem;
+}
