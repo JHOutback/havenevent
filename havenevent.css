@@ -28,7 +28,7 @@
     font-size: 1rem;
 }
 h1.headline {
-    color: #a82200;
+    color: #a82200!important;
     font-size: 3rem!important;
     -webkit-hyphens: auto;
     hyphens: auto;
